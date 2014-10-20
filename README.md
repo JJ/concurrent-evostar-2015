@@ -1,6 +1,5 @@
-2015
+Concurrent EA programming 
 ====
 
-Papers to be published in Evostar 2015
-- RTS games
-- Storytelling
+Papers for Evostar 2015 based on functiona EA programing
+
